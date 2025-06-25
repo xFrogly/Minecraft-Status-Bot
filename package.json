@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-status-bot",
+  "version": "1.0.1",
+  "description": "Discord bot for tracking Minecraft server status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.6.8",
+    "@discordjs/rest": "^1.7.1",
+    "axios": "^1.6.7",
+    "better-sqlite3": "^12.1.0",
+    "canvas": "^3.1.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "quick.db": "^9.0.6"
+  }
+}
