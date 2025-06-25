@@ -17,26 +17,26 @@ A powerful Discord bot that monitors Minecraft server status with beautiful visu
 ## 🛠️ Installation
 
 1. **Clone the repository**
-   \```bash
+   ```bash
    git clone https://github.com/xfrogly/Minecraft-Status-Bot.git
    cd Minecraft-Status-Bot
-   \```
+   ```
 
 2. **Install dependencies**
-   \```bash
+   ```bash
    npm install
-   \```
+   ```
 
 3. **Configure environment**
    Create `.env` file:
-   \```env
+   ```env
    BOT_TOKEN=your_discord_bot_token_here
-   \```
+   ```
 
 4. **Start the bot**
-   \```bash
+   ```bash
    node .
-   \```
+   ```
 
 ## 🎯 Usage
 
@@ -48,9 +48,9 @@ A powerful Discord bot that monitors Minecraft server status with beautiful visu
    - `Use Application Commands`
 
 2. **Track a server**:
-   \```
-   /minecraft status [ip] [type] [channel]
-   \```
+   ```
+   minecraft status [ip] [type] [channel]
+   ```
    - `ip`: Server IP/domain
    - `type`: `Java` or `Bedrock`
    - `channel`: Where updates will appear
@@ -69,13 +69,13 @@ A powerful Discord bot that monitors Minecraft server status with beautiful visu
 - `canvas` for MOTD images
 
 **File Structure**:
-\```
+```
 📁 minecraft-status-bot/
 ├── index.js         # Main bot code
 ├── package.json
 ├── .env             # Configuration
 └── README.md
-\```
+```
 
 ## ❓ Support
 
