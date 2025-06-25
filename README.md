@@ -31,6 +31,7 @@ A powerful Discord bot that monitors Minecraft server status with beautiful visu
    Create `.env` file:
    ```env
    BOT_TOKEN=your_discord_bot_token_here
+   CLIENT_ID=your_bot_client_id_here
    ```
 
 4. **Start the bot**
