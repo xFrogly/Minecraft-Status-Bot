@@ -16,7 +16,7 @@ A powerful Discord bot that monitors Minecraft server status with beautiful visu
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
+1. **Clone the repostory**
    ```bash
    git clone https://github.com/xfrogly/Minecraft-Status-Bot.git
    cd Minecraft-Status-Bot
